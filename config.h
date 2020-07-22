@@ -6,6 +6,7 @@
 #define BLUE_pin 13
 #define TIMER_pin 15
 /* Set these to your desired credentials. */
+// testing commit
 const char *ssid = APSSID;
 const char *password = APPSK;
 
